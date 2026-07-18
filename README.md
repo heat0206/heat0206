@@ -72,13 +72,20 @@ https://github.com/heat0206/AIF-8A-Bias-Audit-Portfolio
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=heat0206&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=heat0206&theme=gruvbox&hide_border=false" />
-</p>
+📊 GitHub Stats
 
 <p align="center">
-  <img width="450" src="https://github-readme-stats.shion.dev/api/top-langs/?username=heat0206&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=heat0206&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=heat0206&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+<p align="center">
+  <img width="450" src="https://github-readme-stats.shion.dev/api/top-langs/?username=heat0206&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&include_all_commits=false&count_private=false" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heat0206&theme=tokyo-night&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=heat0206&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
 </p>
 
 ---
