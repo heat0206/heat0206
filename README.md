@@ -1,16 +1,15 @@
-## Hi there 👋
+# 💫 About Me:
+I am a Computer Science undergraduate at Pandit Deendayal Energy University (PDEU), India, with a strong interest in Software Engineering, Artificial Intelligence, Machine Learning, Backend Development, and Cloud Computing.<br><br>I enjoy building practical software that solves real-world problems. My projects range from AI-powered applications and automation tools to full-stack web applications and data-driven systems. I am particularly interested in writing clean, scalable, and maintainable code.<br><br>I actively practice Data Structures and Algorithms in C++ to strengthen my problem-solving skills and prepare for software engineering interviews. I also enjoy exploring system design, distributed systems, and modern backend technologies.<br><br>I have experience working on AI and machine learning projects, including an algorithmic bias audit for a credit scoring system, where I analyzed fairness metrics and proposed mitigation strategies. I also built an autonomous AI agent capable of analyzing codebases and performing automated code modifications.<br><br>One of my proudest achievements is being a 2nd Runner-Up at the Smart India Hackathon Grand Finale, where my team developed an offline-first smart attendance system for rural schools using RFID, facial recognition, Firebase, and ESP-based hardware.<br><br>I believe in continuous learning and regularly explore new technologies like AWS, Docker, Git, Linux, React, Node.js, Python, and modern AI frameworks. I also contribute to open source whenever possible and enjoy collaborating with other developers.<br><br>Currently, I am focused on improving my software engineering skills, building impactful projects, contributing to open source, and securing Software Engineering or AI/ML internship opportunities.<br><br>Outside of coding, I enjoy learning about emerging technologies, reading technical blogs, and constantly challenging myself with new projects.
 
-<!--
-**heat0206/heat0206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/heet-mankad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heetmankad06@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=heat0206&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=heat0206&theme=gruvbox&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=heat0206&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
