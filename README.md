@@ -84,9 +84,6 @@ https://github.com/heat0206/AIF-8A-Bias-Audit-Portfolio
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=heat0206&theme=tokyo-night&hide_border=true" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heat0206&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</p>
 
 ---
 
