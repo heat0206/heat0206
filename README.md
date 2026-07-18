@@ -1,15 +1,92 @@
-# 💫 About Me:
-I am a Computer Science undergraduate at Pandit Deendayal Energy University (PDEU), India, with a strong interest in Software Engineering, Artificial Intelligence, Machine Learning, Backend Development, and Cloud Computing.<br><br>I enjoy building practical software that solves real-world problems. My projects range from AI-powered applications and automation tools to full-stack web applications and data-driven systems. I am particularly interested in writing clean, scalable, and maintainable code.<br><br>I actively practice Data Structures and Algorithms in C++ to strengthen my problem-solving skills and prepare for software engineering interviews. I also enjoy exploring system design, distributed systems, and modern backend technologies.<br><br>I have experience working on AI and machine learning projects, including an algorithmic bias audit for a credit scoring system, where I analyzed fairness metrics and proposed mitigation strategies. I also built an autonomous AI agent capable of analyzing codebases and performing automated code modifications.<br><br>One of my proudest achievements is being a 2nd Runner-Up at the Smart India Hackathon Grand Finale, where my team developed an offline-first smart attendance system for rural schools using RFID, facial recognition, Firebase, and ESP-based hardware.<br><br>I believe in continuous learning and regularly explore new technologies like AWS, Docker, Git, Linux, React, Node.js, Python, and modern AI frameworks. I also contribute to open source whenever possible and enjoy collaborating with other developers.<br><br>Currently, I am focused on improving my software engineering skills, building impactful projects, contributing to open source, and securing Software Engineering or AI/ML internship opportunities.<br><br>Outside of coding, I enjoy learning about emerging technologies, reading technical blogs, and constantly challenging myself with new projects.
+<h1 align="center">Hi 👋, I'm Heet Mankad</h1>
+<h3 align="center">CS Engineering Student · Software Engineer in the Making · Backend & AI/ML</h3>
 
+<p align="center">
+I build practical software that solves real problems — from AI-powered systems to full-stack apps — and I'm currently chasing Software Engineering / AI-ML internship opportunities.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/heet-mankad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:heetmankad06@gmail.com) 
+<br/>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=heat0206&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=heat0206&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=heat0206&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🚀 About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 🎓 B.Tech in Computer Science Engineering @ Pandit Deendayal Energy University (PDEU), India — Class of 2028 · CGPA 9.72/10
+- 🥉 2nd Runner-Up (National) at Smart India Hackathon 2025 — led the team behind an offline-first smart attendance system for rural schools
+- 🔐 Security-minded engineer — into backend systems, distributed systems, and CTF/web security alongside core software engineering
+- 🧩 I like shipping things end-to-end: AI-powered tools, automation, full-stack apps, and data-driven systems
+- 📚 Sharpening DSA and problem-solving in C++, and actively interviewing for Software Engineering / AI-ML internships
+- 🤝 Open to collaborating on open-source projects
+
+---
+
+### 🔭 Featured Projects
+
+**🌦️ AI-Powered Digital Twin of India's Climate** — *ISRO Hackathon*
+A climate modeling system built on IMD gridded datasets using ConvLSTM/LSTM models, visualized through a Streamlit/Plotly Dash dashboard. Piloted on Maharashtra, with cost modeling worked out across PoC, single-state, and national-scale deployment tiers.
+<!-- add repo link here -->
+
+**📋 Smart Attendance System** — *Smart India Hackathon 2025 · 2nd Runner-Up, National*
+Led a team building an offline-first attendance system for rural schools, combining RFID and facial recognition with a Firebase backend and ESP-based hardware.
+<!-- add repo link here -->
+
+**🤖 Autonomous AI Code Agent**
+An agent that analyzes codebases and performs automated code modifications — exploring how far AI can go in real software maintenance work.
+<!-- add repo link here -->
+
+**⚖️ Algorithmic Bias Audit — Credit Scoring System**
+Analyzed fairness metrics in a credit scoring model and proposed concrete mitigation strategies to reduce biased outcomes.
+<!-- add repo link here -->
+
+---
+
+### 🚧 Currently Building
+
+- 🧠 An AI-powered flashcard generator
+- 🎯 *Unblur* — an early-stage concept for an AI/ML-assisted platform to help CS students figure out which part of the field fits them best
+
+### 🌱 Currently Sharpening
+
+- Competitive programming & DSA in C++ (graph algorithms, DP, greedy, backtracking)
+- Web security through PicoCTF (SSTI, HTTP header exploits, directory enumeration)
+- React, with Vite and Tailwind CSS
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Web & Backend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Data & Machine Learning**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=heat0206&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=heat0206&theme=gruvbox&hide_border=false" />
+</p>
+
+<p align="center">
+  <img width="450" src="https://github-readme-stats.shion.dev/api/top-langs/?username=heat0206&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/heet-mankad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:heetmankad06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
