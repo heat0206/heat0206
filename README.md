@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heet Mankad</h1>
-<h3 align="center">CS Engineering Student · Software Engineer in the Making · Backend & AI/ML</h3>
+<h3 align="center">CS Engineering Student · Software Engineer in the Making · Frontend & AI/ML</h3>
 
 <p align="center">
 I build practical software that solves real problems — from AI-powered systems to full-stack apps — and I'm currently chasing Software Engineering / AI-ML internship opportunities.
@@ -9,7 +9,7 @@ I build practical software that solves real problems — from AI-powered systems
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science Engineering @ Pandit Deendayal Energy University (PDEU), India — Class of 2028 · CGPA 9.72/10
+- 🎓 B.Tech in Computer Science Engineering @ Pandit Deendayal Energy University (PDEU), India — Class of 2028 · CGPA 9.65/10
 - 🥉 2nd Runner-Up (National) at Smart India Hackathon 2025 — led the team behind an offline-first smart attendance system for rural schools
 - 🔐 Security-minded engineer — into backend systems, distributed systems, and CTF/web security alongside core software engineering
 - 🧩 I like shipping things end-to-end: AI-powered tools, automation, full-stack apps, and data-driven systems
@@ -20,20 +20,19 @@ I build practical software that solves real problems — from AI-powered systems
 
 ### 🔭 Featured Projects
 
-**🌦️ AI-Powered Digital Twin of India's Climate** — *ISRO Hackathon*
-A climate modeling system built on IMD gridded datasets using ConvLSTM/LSTM models, visualized through a Streamlit/Plotly Dash dashboard. Piloted on Maharashtra, with cost modeling worked out across PoC, single-state, and national-scale deployment tiers.
-<!-- add repo link here -->
-
 **📋 Smart Attendance System** — *Smart India Hackathon 2025 · 2nd Runner-Up, National*
 Led a team building an offline-first attendance system for rural schools, combining RFID and facial recognition with a Firebase backend and ESP-based hardware.
+https://github.com/heat0206/SIH_Project
 <!-- add repo link here -->
 
 **🤖 Autonomous AI Code Agent**
 An agent that analyzes codebases and performs automated code modifications — exploring how far AI can go in real software maintenance work.
+https://github.com/heat0206/agentic-ai-project
 <!-- add repo link here -->
 
 **⚖️ Algorithmic Bias Audit — Credit Scoring System**
 Analyzed fairness metrics in a credit scoring model and proposed concrete mitigation strategies to reduce biased outcomes.
+https://github.com/heat0206/AIF-8A-Bias-Audit-Portfolio
 <!-- add repo link here -->
 
 ---
