@@ -72,8 +72,6 @@ https://github.com/heat0206/AIF-8A-Bias-Audit-Portfolio
 
 ### 📊 GitHub Stats
 
-📊 GitHub Stats
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=heat0206&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=false&count_private=false" />
   <img height="165" src="https://streak-stats.demolab.com/?user=heat0206&theme=tokyonight&hide_border=true&border_radius=10" />
