@@ -152,14 +152,12 @@ A role-based platform for an NGO to run the full submission lifecycle: upload �
 
 </div>
 
-<!-- 🐍 SNAKE GRAPH — enable after adding .github/workflows/snake.yml to this repo
-     (the workflow file is provided alongside this README; run it once, then uncomment)
+
 
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/heat0206/heat0206/output/snake-dark.svg" alt="Contribution snake" />
 </div>
 
--->
 
 ---
 
