@@ -1,93 +1,188 @@
-<h1 align="center">Hi 👋, I'm Heet Mankad</h1>
-<h3 align="center">CS Engineering Student · Software Engineer in the Making · Frontend & AI/ML</h3>
+<div align="center">
 
-<p align="center">
-I build practical software that solves real problems — from AI-powered systems to full-stack apps — and I'm currently chasing Software Engineering / AI-ML internship opportunities.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Heet+Mankad+%F0%9F%91%8B;Full-stack+%2B+AI%2FML+engineer+in+the+making;I+ship+things+end-to-end" alt="Hi, I'm Heet Mankad" />
+
+**B.Tech CSE @ PDEU '28 · CGPA 9.65/10 · SIH 2025 National 2nd Runner-Up**
+
+<a href="https://www.linkedin.com/in/heet-mankad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:heetmankad06@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://bahikhata.dev"><img src="https://img.shields.io/badge/Bahikhata-Live-2FBF71?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=heat0206&label=PROFILE+VIEWS&style=flat-square&color=7aa2f7" />
+<img src="https://img.shields.io/github/followers/heat0206?style=flat-square&color=7aa2f7&labelColor=1a1b27&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/OPEN_TO-SWE%20%2F%20AI--ML%20INTERNSHIPS-9ece6a?style=flat-square&labelColor=1a1b27" />
+
+</div>
 
 <br/>
 
-### 🚀 About Me
+```yaml
+name        : Heet Mankad
+role        : CS undergrad · software engineer in the making
+location    : Gujarat, India
+education   : B.Tech CSE @ Pandit Deendayal Energy University (2024–2028)
+focus       : [full-stack engineering, AI/ML systems, developer tooling]
+currently   : building an AI flashcard generator · grinding DSA in C++ · open-source
+open_to     : [software engineering internships, AI/ML internships, OSS collabs]
+```
 
-- 🎓 B.Tech in Computer Science Engineering @ Pandit Deendayal Energy University (PDEU), India — Class of 2028 · CGPA 9.65/10
-- 🥉 2nd Runner-Up (National) at Smart India Hackathon 2025 — led the team behind an offline-first smart attendance system for rural schools
-- 🔐 Security-minded engineer — into backend systems, distributed systems, and CTF/web security alongside core software engineering
-- 🧩 I like shipping things end-to-end: AI-powered tools, automation, full-stack apps, and data-driven systems
-- 📚 Sharpening DSA and problem-solving in C++, and actively interviewing for Software Engineering / AI-ML internships
-- 🤝 Open to collaborating on open-source projects
+---
+
+### 🧩 Open Source
+
+**🔧 [PicadoLabs/build-with-ai](https://github.com/PicadoLabs/build-with-ai)** — *merged Nov 2026*
+`feat(init): add non-interactive initialization` · [PR #235](https://github.com/PicadoLabs/build-with-ai/pull/235)
+> `npx build-with-ai init` used to hang outside a TTY — breaking CI, Docker, and agent-driven setups. I added a zero-prompt path so the tool works headlessly.
+
+- Added `-y/--yes`, `--template`, `--name`, `--level`, `--idea` flags, with `--yes` filling only missing values
+- Built-in template IDs now resolve alongside local paths and HTTP(S) URLs
+- Fails fast with named missing flags when stdin isn't a terminal; re-init guards with `--force`
+- **6 commits · 987 additions across 6 files**, with unit, re-init, CLI integration, and e2e coverage
+- Merged after maintainer review — [see the diff](https://github.com/PicadoLabs/build-with-ai/pull/235/files)
+
+**🧠 [open-inspect/background-agents](https://github.com/open-inspect/background-agents)** — *merged Jun 2026*
+`Improve formatting for get-task-status tool calls` · [PR #725](https://github.com/open-inspect/background-agents/pull/725)
+> Traced the data flow across a production TypeScript/React codebase and reworked how agent tool calls render in the web UI, iterating through code review and architecture discussion on custom renderers.
 
 ---
 
 ### 🔭 Featured Projects
 
-**📋 Smart Attendance System** — *Smart India Hackathon 2025 · 2nd Runner-Up, National*
-Led a team building an offline-first attendance system for rural schools, combining RFID and facial recognition with a Firebase backend and ESP-based hardware.
-https://github.com/heat0206/SIH_Project
-<!-- add repo link here -->
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🤖 Autonomous AI Code Agent**
-An agent that analyzes codebases and performs automated code modifications — exploring how far AI can go in real software maintenance work.
-https://github.com/heat0206/agentic-ai-project
-<!-- add repo link here -->
+**[📊 Bahikhata](https://github.com/heat0206/Bahikhata)** · [live ↗](https://bahikhata.dev)
 
-**⚖️ Algorithmic Bias Audit — Credit Scoring System**
-Analyzed fairness metrics in a credit scoring model and proposed concrete mitigation strategies to reduce biased outcomes.
-https://github.com/heat0206/AIF-8A-Bias-Audit-Portfolio
-<!-- add repo link here -->
+<a href="https://github.com/heat0206/Bahikhata"><img src="https://github-readme-stats.shion.dev/api/pin/?username=heat0206&repo=Bahikhata&theme=tokyonight&hide_border=true&border_radius=10" /></a>
 
----
+Job & internship application tracker — deployed and in daily use.
+`React` `Node/Express` `MongoDB` `JWT`
+- bcrypt + httpOnly cookie auth with per-user data isolation
+- Claude tool-calling chatbot for natural-language CRUD
+- Background polling auto-closes past online assessments
 
-### 🚧 Currently Building
+</td>
+<td width="50%" valign="top">
 
-- 🧠 An AI-powered flashcard generator
-- 🎯 *Unblur* — an early-stage concept for an AI/ML-assisted platform to help CS students figure out which part of the field fits them best
+**[🎓 Smart Attendance System](https://github.com/heat0206/SIH_Project)** · *SIH '25 National 2nd Runner-Up*
 
-### 🌱 Currently Sharpening
+<a href="https://github.com/heat0206/SIH_Project"><img src="https://github-readme-stats.shion.dev/api/pin/?username=heat0206&repo=SIH_Project&theme=tokyonight&hide_border=true&border_radius=10" /></a>
 
-- Competitive programming & DSA in C++ (graph algorithms, DP, greedy, backtracking)
-- Web security through PicoCTF (SSTI, HTTP header exploits, directory enumeration)
-- React, with Vite and Tailwind CSS
+Offline-first attendance for rural schools.
+`React` `Firebase` `ESP32-CAM` `RFID`
+- **~40–50%** less manual attendance time per class
+- **~25–30%** better record accuracy — proxy entries eliminated
+- Hardware + frontend + cloud built for intermittent networks
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🛡️ Secure Agentic AI Tool](https://github.com/heat0206/agentic-ai-project)**
+
+<a href="https://github.com/heat0206/agentic-ai-project"><img src="https://github-readme-stats.shion.dev/api/pin/?username=heat0206&repo=agentic-ai-project&theme=tokyonight&hide_border=true&border_radius=10" /></a>
+
+A Python agent that edits real codebases through sandboxed tools.
+`Python` `Gemini API` `Sandboxing`
+- Modified **10+ source files** while blocking unauthorized filesystem access
+- Least-privilege tool contracts, modular execution
+
+</td>
+<td width="50%" valign="top">
+
+**[⚖️ Algorithmic Bias Audit](https://github.com/heat0206/AIF-8A-Bias-Audit-Portfolio)**
+
+<a href="https://github.com/heat0206/AIF-8A-Bias-Audit-Portfolio"><img src="https://github-readme-stats.shion.dev/api/pin/?username=heat0206&repo=AIF-8A-Bias-Audit-Portfolio&theme=tokyonight&hide_border=true&border_radius=10" /></a>
+
+Fairness audit of a credit-scoring model on **50,000 records**.
+`Fairlearn` `SHAP` `scikit-learn`
+- Four-Fifths Rule violations across gender, geography, age
+- **5 mitigation strategies** benchmarked; mapped to RBI FPC & DPDPA 2023
+
+</td>
+</tr>
+</table>
+
+**🌱 YUWA / Ecolympics Verification Platform** — *JPMorganChase Code for Good 2026*
+A role-based platform for an NGO to run the full submission lifecycle: upload → validation → human verification → Drive sync → scoring → shortlist → jury → leaderboard. Built on Supabase (PostgreSQL + Auth) and the Google Drive API, with activity-aware validation for file type/size, deadlines, GPS metadata, duplicates, and external links.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nodejs,express,tailwind,vite,firebase,supabase,mongodb,mysql,git,docker,aws,linux,bash&perline=18" />
 
-**Web & Backend**
+<br/><br/>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?style=flat-square&logo=xgboost&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32--CAM-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-**Data & Machine Learning**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=heat0206&show_icons=true&theme=tokyonight&v=2" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=heat0206&theme=tokyonight&hide_border=true&border_radius=10" />
-</p>
-<p align="center">
-  <img width="450" src="https://github-readme-stats.shion.dev/api/top-langs/?username=heat0206&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&include_all_commits=false&count_private=false" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=heat0206&theme=tokyo-night&hide_border=true" />
-</p>
+</div>
 
 ---
 
-### 🤝 Connect With Me
+### 📈 GitHub, by the numbers
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/heet-mankad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:heetmankad06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=heat0206&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=heat0206&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=heat0206&theme=tokyonight&hide_border=true&border_radius=10" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=heat0206&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=heat0206&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribution%20Activity" />
+
+</div>
+
+<!-- 🐍 SNAKE GRAPH — enable after adding .github/workflows/snake.yml to this repo
+     (the workflow file is provided alongside this README; run it once, then uncomment)
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/heat0206/heat0206/output/snake-dark.svg" alt="Contribution snake" />
+</div>
+
+-->
+
+---
+
+### 🌱 Currently
+
+- 🚀 **[spendsage](https://github.com/heat0206/spendsage)** — festival-aware AI money planner, built at the PayPal AI Hackathon
+- 🧠 An **AI-powered flashcard generator**
+- 🎯 **Unblur** — helping CS students figure out which part of the field fits them
+- 📚 DSA & competitive programming in C++ — graphs, DP, greedy, backtracking
+- 🔐 Web security via PicoCTF — SSTI, header exploits, directory enumeration
+
+---
+
+### 🤝 Let's connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/heet-mankad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:heetmankad06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/heat0206?tab=repositories"><img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+*"Talk is cheap. Show me the code." — Linus Torvalds*
+
+</div>
