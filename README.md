@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Heet+Mankad+%F0%9F%91%8B;Full-stack+%2B+AI%2FML+engineer+in+the+making;I+ship+things+end-to-end" alt="Hi, I'm Heet Mankad" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=7AA2F7&center=true&vCenter=true&width=820&lines=Hi%2C+I%27m+Heet+Mankad+%F0%9F%91%8B;Full-stack+%2B+AI%2FML+engineer;I+ship+things+end-to-end" alt="Hi, I'm Heet Mankad" />
 
 **B.Tech CSE @ PDEU '28 Â· CGPA 9.65/10 Â· SIH 2025 National 2nd Runner-Up**
 
@@ -135,7 +135,7 @@ A role-based platform for an NGO to run the full submission lifecycle: upload â†
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=heat0206&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heat0206&theme=tokyonight" alt="Contribution calendar and totals" />
 
 <br/>
 
@@ -146,18 +146,15 @@ A role-based platform for an NGO to run the full submission lifecycle: upload â†
 
 <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=heat0206&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" />
 
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=heat0206&theme=tokyo-night&hide_border=true&radius=10&area=true&custom_title=Contribution%20Activity" />
-
 </div>
-
-
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/heat0206/heat0206/output/snake-dark.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/heat0206/heat0206/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/heat0206/heat0206/output/snake.svg" />
+    <img width="100%" alt="Contribution snake" src="https://raw.githubusercontent.com/heat0206/heat0206/output/snake.svg" />
+  </picture>
 </div>
-
 
 ---
 
